@@ -8,6 +8,7 @@ I'm a software developer who enjoys building real-world solutions using Python a
  I'm working on personal projects and learning by building  
  I'm currently building SETTLE; it simplies fund tracking and coordination for groups 
  you can join the early users here https://tally.so/r/WOgWMe 
+ 
  I'm learning advanced backend systems and mobile development
  I'm open to collaborating on interesting projects  
  
