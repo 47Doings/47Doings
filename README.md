@@ -6,7 +6,7 @@ I'm a software developer who enjoys building real-world solutions using Python a
  I'm based in Accra, Ghana  
  you can contact me at yoofitandoh100@gmail.com
  I'm working on personal projects and learning by building  
- I'm currently building a grocery & food delivery platform  
+ I'm currently building SETTLE; it simplies fund tracking and coordination for groups 
  I'm learning advanced backend systems and mobile development
  I'm open to collaborating on interesting projects  
  
