@@ -10,6 +10,6 @@ I'm a software developer who enjoys building real-world solutions using Python a
  
  you can join the early users here https://tally.so/r/WOgWMe 
  
- I'm learning advanced backend systems and mobile development
+ I'm learning advanced backend systems, AI and mobile development
  I'm open to collaborating on interesting projects  
  
